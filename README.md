@@ -1,4 +1,5 @@
 👋 Hi, I’m Nico!
+
 🚀 About Me
 
 I’m a French solopreneur passionate about creating and building products that solve real-world problems. As a developer and designer, I specialize in crafting micro-SaaS products, mobile apps, and technical solutions with a focus on simplicity and user experience.
